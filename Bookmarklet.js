@@ -5,10 +5,10 @@ javascript: Promise.all([import('https://unpkg.com/turndown@6.0.0?module'), impo
 }]) => {
 
   /* Optional vault name */
-  const vault = "";
+  const vault = "ww-Notes";
 
   /* Optional folder name such as "Clippings/" */
-  const folder = "";
+  const folder = "Clippings/";
 
   /* Optional tags  */
   const tags = "#clippings";
